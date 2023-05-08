@@ -11,6 +11,4 @@ The API provides 10 articles per JSON response so only 10 headlines are displaye
 
 ### Screenshots
 
-![Screenshot_20230508_025724](https://user-images.githubusercontent.com/48461513/236709039-a411c1b8-d0c9-43d0-a696-6a05959e4698.png)
-![Screenshot_20230508_025754](https://user-images.githubusercontent.com/48461513/236709045-3456e2db-6573-41bb-988b-1604b0b4a5e0.png)
-![Screenshot_20230508_025920](https://user-images.githubusercontent.com/48461513/236709048-c4ee2c7f-ef6e-4f58-8b59-1c18553d713c.png)
+![Screenshot](screenshots.png)
